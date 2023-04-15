@@ -1,1 +1,1 @@
-AddType application/octet-stream unity3d
+SetEnv no-gzip 1
